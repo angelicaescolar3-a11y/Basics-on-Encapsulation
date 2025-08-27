@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACT-STUDENT\\Desktop\\basinonencapsulatio\\Basics on Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52B94E-1F7A-4D5F-B9C3-36064C31F04A}|Basics on Encapsulation\\Basics on Encapsulation.csproj|c:\\users\\act-student\\desktop\\basinonencapsulatio\\basics on encapsulation\\basics on encapsulation\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52B94E-1F7A-4D5F-B9C3-36064C31F04A}|Basics on Encapsulation\\Basics on Encapsulation.csproj|solutionrelative:basics on encapsulation\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52B94E-1F7A-4D5F-B9C3-36064C31F04A}|Basics on Encapsulation\\Basics on Encapsulation.csproj|c:\\users\\act-student\\desktop\\basinonencapsulatio\\basics on encapsulation\\basics on encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52B94E-1F7A-4D5F-B9C3-36064C31F04A}|Basics on Encapsulation\\Basics on Encapsulation.csproj|solutionrelative:basics on encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bag.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\Desktop\\basinonencapsulatio\\Basics on Encapsulation\\Basics on Encapsulation\\bag.cs",
+              "RelativeDocumentMoniker": "Basics on Encapsulation\\bag.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\Desktop\\basinonencapsulatio\\Basics on Encapsulation\\Basics on Encapsulation\\bag.cs",
+              "RelativeToolTip": "Basics on Encapsulation\\bag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:21:34.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\Desktop\\basinonencapsulatio\\Basics on Encapsulation\\Basics on Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Basics on Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\Desktop\\basinonencapsulatio\\Basics on Encapsulation\\Basics on Encapsulation\\Program.cs",
+              "RelativeToolTip": "Basics on Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:17:44.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

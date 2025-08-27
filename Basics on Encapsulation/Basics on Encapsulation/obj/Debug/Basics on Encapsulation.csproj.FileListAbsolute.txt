@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\basinonencapsulatio\Basics on Encapsulation\Basics on Encapsulation\bin\Debug\Basics on Encapsulation.exe.config
+C:\Users\ACT-STUDENT\Desktop\basinonencapsulatio\Basics on Encapsulation\Basics on Encapsulation\bin\Debug\Basics on Encapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\basinonencapsulatio\Basics on Encapsulation\Basics on Encapsulation\bin\Debug\Basics on Encapsulation.pdb
+C:\Users\ACT-STUDENT\Desktop\basinonencapsulatio\Basics on Encapsulation\Basics on Encapsulation\obj\Debug\Basics on Encapsulation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\basinonencapsulatio\Basics on Encapsulation\Basics on Encapsulation\obj\Debug\Basics on Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\basinonencapsulatio\Basics on Encapsulation\Basics on Encapsulation\obj\Debug\Basics on Encapsulation.exe
+C:\Users\ACT-STUDENT\Desktop\basinonencapsulatio\Basics on Encapsulation\Basics on Encapsulation\obj\Debug\Basics on Encapsulation.pdb
